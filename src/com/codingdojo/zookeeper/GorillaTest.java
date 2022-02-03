@@ -1,3 +1,5 @@
+package com.codingdojo.zookeeper;
+
 public class GorillaTest {
     public static void main(String[] args) {
         Gorilla joe = new Gorilla(100);

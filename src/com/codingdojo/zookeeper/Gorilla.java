@@ -1,3 +1,5 @@
+package com.codingdojo.zookeeper;
+
 public class Gorilla extends Mammal {
   public Gorilla(int energyLevel) {
     super(energyLevel);
